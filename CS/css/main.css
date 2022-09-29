@@ -1,6 +1,22 @@
 p {color: beige;}
 body {
-    background-color: black ;
+    background-image: url(/image/Background.jpg)
 }
 h1{color: aliceblue;}
 p {font-weight: bold }
+.kkk{
+    color: white;
+}
+.line{
+    background-color: azure;
+}
+ul{
+    padding: 0;
+    color: azure;
+}
+li{
+    color: azure;
+}
+.ad{
+    background-color: aliceblue;
+}
