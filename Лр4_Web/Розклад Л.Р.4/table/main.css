@@ -1,0 +1,7 @@
+.day {
+    border: none; 
+    background-color: lightgray;
+}
+.day p {
+    transform: rotate(-90deg);
+}
